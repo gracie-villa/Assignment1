@@ -3,4 +3,7 @@ body {
    width: 700px;
 }
 
+{
+   header h1 border: solid red;
+}
 
